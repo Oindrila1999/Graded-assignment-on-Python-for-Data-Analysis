@@ -1,0 +1,51 @@
+Branch_ID,Branch_Name,Region,Total_Customers,Total_Active_Loans,Delinquent_Loans,Loan_Disbursement_Amount,Avg_Processing_Time,Relationship_Manager_Count
+B001,"Dhar, Kant and Madan",West,2891,279,21,341680882,6,29
+B002,Shan Group,East,4459,1201,149,96549019,8,35
+B003,Sachdev-Banerjee,Central,2504,122,168,445787808,12,48
+B004,Kapadia-Brar,East,1542,1422,96,353934299,9,50
+B005,"Mangal, Kaur and Borde",South,945,1613,87,311637902,11,10
+B006,Doshi Group,North,525,856,76,10435197,15,7
+B007,"Lad, Wali and Ramesh",North,4435,468,200,25191104,7,30
+B008,Gala-Gara,Central,4647,228,117,240602090,7,40
+B009,Vasa Group,North,3061,236,106,356643441,13,32
+B010,Arya Ltd,West,4618,1810,49,435407779,10,23
+B011,Bhakta PLC,South,4108,1067,91,149799582,15,18
+B012,Kaul Inc,West,2408,1714,104,465469874,3,16
+B013,"Banik, Subramanian and Mane",North,4127,1299,112,255132776,7,34
+B014,"Bhatti, Rau and Sem",North,1706,439,67,482327541,7,45
+B015,Apte Group,North,3737,550,73,139524261,14,32
+B016,"Bhatnagar, Khalsa and Savant",East,4556,577,81,84694218,11,9
+B017,Doshi LLC,North,3859,405,138,75712441,10,19
+B018,"Sandhu, Magar and Sachdeva",Northeast,3609,1815,154,190472299,2,11
+B019,Bath-Bassi,North,4272,793,52,13557923,14,17
+B020,Contractor-Sodhi,West,1570,1751,89,203940005,13,38
+B021,Viswanathan Ltd,South,3132,475,105,150411759,6,13
+B022,"Bansal, Arya and Chakrabarti",East,4214,946,114,362728718,15,23
+B023,"Wable, Butala and Kakar",South,4064,1581,103,269375830,5,16
+B024,Garde PLC,Central,1980,744,42,375279666,11,18
+B025,Dhingra Ltd,North,1679,1054,143,125999612,8,41
+B026,Madan-Lanka,North,3567,1677,139,401253151,14,19
+B027,Kapadia-Ramakrishnan,West,3715,830,18,299774333,3,11
+B028,"Borah, Comar and Bhalla",Central,2705,551,70,393550434,12,18
+B029,"Uppal, Sankaran and Thaker",Central,2423,1796,135,234351532,9,46
+B030,Kakar-Dutta,East,3069,1849,18,15022525,11,16
+B031,Sem Inc,South,2816,776,22,180725549,15,11
+B032,Mahajan-Zachariah,Northeast,1721,251,171,69415705,12,47
+B033,"Saini, Iyer and Sani",South,3159,1891,195,190808551,5,10
+B034,"Raja, Ratta and Sathe",Central,4353,1151,98,363032381,10,13
+B035,"Malhotra, Boase and Malhotra",Central,927,618,165,449109596,13,29
+B036,Kara-Bahl,East,1529,949,106,499562869,11,8
+B037,Yogi Ltd,North,1760,1585,183,420746720,13,22
+B038,Loke Inc,Northeast,640,1393,113,86826078,6,34
+B039,"Zacharia, Srivastava and Sha",South,763,970,104,136129255,12,40
+B040,"Dada, Chander and Bhatt",North,3174,1933,10,410883979,10,34
+B041,Dyal PLC,Northeast,2166,1715,49,96113763,6,25
+B042,Kar-Jaggi,West,2114,477,160,244555768,2,50
+B043,Grover Group,East,3493,872,176,447832443,12,48
+B044,Bawa Inc,Central,2621,256,69,92708075,6,46
+B045,Solanki-Shah,South,3759,862,139,306018078,3,23
+B046,Badal Group,Central,3056,1648,43,257206777,11,24
+B047,Chawla-Tandon,East,2017,1113,16,146352191,2,30
+B048,Chawla-Subramanian,Central,4896,1601,87,464419943,4,7
+B049,"Khalsa, Mani and Banik",North,1284,347,114,136071324,12,23
+B050,Sani-Kale,North,3075,323,91,442594434,1,15
